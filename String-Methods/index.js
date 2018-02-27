@@ -52,3 +52,30 @@ var str = "Hello planet Earth";
 var str2 = str.substr(6, 6); // planet
 
 // =============================================================================
+
+// TODO: concat() Method- joins two or more strings
+var str = "Hello";
+var str2 = "World";
+var str3 = str.concat(" ", str2);
+
+// =============================================================================
+
+// TODO: search() Method- searches a string for a specified value and returns the
+// position of the match
+var str = "Please locate where 'locate' occuse!";
+var pos = str.search("locate"); // 7
+
+// =============================================================================
+
+// TODO: lastIndexOf() Method- resturns the index of the LAST occurence of a
+// specified text in a string.
+var str = "Please locate where 'locate' occurs!";
+var pos = str.lastIndexOf("locate"); // 21
+
+// =============================================================================
+
+// TODO: length() property returns the length of a string.
+var txt = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
+var sln = txt.length; // 26
+
+// =============================================================================
