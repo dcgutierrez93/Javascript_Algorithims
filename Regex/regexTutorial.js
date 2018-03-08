@@ -46,3 +46,8 @@ console.log(/cat/.test("the dogs says bark")); // false
 // (?:x)..Non-capturing Parenthesis: Matches x and does not remembers it
 // x(?=y).Lookahead: Matches x only if it is followed by y
 // =============================================================================
+client id:
+771002584056-sse75qqpo7e4gtpfv7npusr112krj1bk.apps.googleusercontent.com
+
+client secret:
+vn6URr-Zq7tRk54PT8WoGymx
